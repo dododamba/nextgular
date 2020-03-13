@@ -1,0 +1,23 @@
+
+@import "./../../../assets/login/vendor/animate/animate.css";
+
+@import "./../../../assets/login/vendor/css-hamburgers/hamburgers.min.css";
+
+@import "./../../../assets/login/vendor/animsition/css/animsition.min.css";
+
+@import "./../../../assets/login/vendor/select2/select2.min.css";
+
+@import "./../../../assets/login/vendor/daterangepicker/daterangepicker.css";
+
+@import "./../../../assets/login/css/util.css";
+@import "./../../../assets/login/css/main.css";
+
+.circular--square {
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+  }
+
+
+  
